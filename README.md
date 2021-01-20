@@ -6,6 +6,7 @@
 Stack:
 
 ReactJS + Hooks,
+
 React Router,
 Redux,
 Redux form,

@@ -5,11 +5,14 @@
 
 Stack:
 
-ReactJS + Hooks,
+ ReactJS + Hooks
+ React Router
 
-React Router,
-Redux,
-Redux form,
-Redux thunk,
-Axios,
+Redux
+
+Redux form
+
+Redux thunk
+
+Axios
 classnames

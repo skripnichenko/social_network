@@ -5,8 +5,9 @@
 
 Stack:
 
- ReactJS + Hooks
- React Router
+ReactJS + Hooks
+
+React Router
 
 Redux
 
@@ -15,4 +16,5 @@ Redux form
 Redux thunk
 
 Axios
+
 classnames

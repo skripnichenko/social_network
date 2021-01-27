@@ -2,19 +2,13 @@
  Login: skripnichenkoooo@gmail.com
  Password: qwertyuiop
 
-
-Stack:
-
-ReactJS + Hooks
-
-React Router
-
-Redux
-
-Redux form
-
-Redux thunk
-
-Axios
-
-classnames
+# Stack:
+<ul>
+ <li>ReactJS + Hooks</li>
+ <li>React Router</li>
+ <li>Redux</li>
+ <li>Redux thunk</li>
+ <li>Redux form</li>
+ <li>Axios</li>
+ <li>classnames</li>
+</ul>
